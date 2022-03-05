@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Balanço da cobertura da mídia do último relatório do #IPCC"
+title: "Balanço da cobertura midiatica do último relatório do #IPCC"
 author: "Redação"
 tags: "ipcc"
+excerpt_separator: <!--mais-->
 ---
 
 A mídia cobriu a divulgação do relatório do IPCC ontem?
 
 Vamos ver....
+
+<!--mais-->
 
 - Globo: nem uma palavra sobre o IPCC, às 13h e 20h. Carnaval de Veneza sim, as prioridades.
 - SBT: nem uma palavra.
