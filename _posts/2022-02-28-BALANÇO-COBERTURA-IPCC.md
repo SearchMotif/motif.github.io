@@ -33,11 +33,11 @@ Se eu conseguir fazer isso sozinho, tenho certeza de que grupos bilionários pod
 
 No último relatório do IPCC, está escrito explicitamente que a mídia tem um papel importante a desempenhar na Transição Ecológica. Se isso ainda nem foi feito no dia em que o relatório foi divulgado, QUANDO será?
 
-3,3 bilhões de pessoas envolvidas, incluindo vários brasileiros: isso não é suficiente para torná-lo uma prioridade?
+3,3 bilhões de pessoas envolvidas, incluindo 21 brasileiros: isso não é suficiente para torná-lo uma prioridade?
 
 Há sempre algo mais importante do que o clima. Sempre algo mais urgente. Até que os desastres batam à nossa porta, e nos perguntemos por que não agimos antes.
 
-<!-- Aqui está o resumo do relatório do IPCC: https://lnkd.in/e8QX57qu -->
+Aqui está o resumo do relatório do IPCC: https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf
 
 Reserve 10 minutos do seu tempo para lê-lo: trata-se apenas do nosso futuro.
 
